@@ -1,6 +1,4 @@
-# M365ManagementPS
-PowerShell for management M365
-Hướng dẫn sử dụng: M365 Management Release v2.0.PS1
+# Hướng dẫn sử dụng: M365 Management Release v2.0.PS1
 Cài đặt 1 số công cụ này trước:
 -	First install the Microsoft Online Services Sign-In Assistant for IT Professionals RTW from the Microsoft Download Center.(hoặc thư mục Libary)
 -	Then install the Azure Active Directory Module for Windows PowerShell (64-bit version), and click Run to run the installer package.(hoặc thư mục Libary)
