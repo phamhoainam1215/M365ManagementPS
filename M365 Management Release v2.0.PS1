@@ -122,7 +122,7 @@ While ($Loop)
 
 
 
-    $opt = Read-Host "Select an option [0-15]"
+    $opt = Read-Host "Select an option [0-11]"
     write-host $opt
 	switch ($opt)
 	
