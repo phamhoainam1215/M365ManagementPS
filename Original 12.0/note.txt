@@ -1,6 +1,0 @@
-0. sua loi chinh ta -done
-
-1. Bo manager trong file csv update
-
-2. TAO FUNCTION UPDATE MANAGER
-Set-User -Identity DAOTAO.CS02@demo.office365vietnam.info -Manager DAOTAO.Truong.CS02@demo.office365vietnam.info
