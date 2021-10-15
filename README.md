@@ -1,12 +1,10 @@
-# Hướng dẫn sử dụng: M365 Management Release v2.0.PS1
+# Hướng dẫn sử dụng: M365 Management Release v12.1
 Cài đặt 1 số công cụ này trước:
--	First install the Microsoft Online Services Sign-In Assistant for IT Professionals RTW from the Microsoft Download Center.(hoặc thư mục Libary)
--	Then install the Azure Active Directory Module for Windows PowerShell (64-bit version), and click Run to run the installer package.(hoặc thư mục Libary)
-More info: https://technet.microsoft.com/library/jj151815.aspx
+-	Vào thư mục Library cài đặt các file thư viện theo số thứ tự.
 
-1.	Chuột phải vào file M365 Management Release v2.0.PS1 -> chọn Run with PowerShell:
+1.	Chuột phải vào file M365 Management Release v12.0.PS1 -> chọn Run with PowerShell:
  
-2.	Trước khi sử dụng lệnh 2 -> 13 phải đăng nhập O365 với tài khoản admin bằng lệnh 1 trước.
+2.	Trước khi sử dụng lệnh 2 -> 14 phải đăng nhập O365 với tài khoản admin bằng lệnh 1 trước.
 
 3.	Để tạo nhiều tài khoản cùng 1 lúc ta làm như sau:
 
