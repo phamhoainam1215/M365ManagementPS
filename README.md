@@ -2,11 +2,11 @@
 Cài đặt 1 số công cụ này trước:
 -	Vào thư mục Library cài đặt các file thư viện theo số thứ tự.
 
-1.	Chuột phải vào file M365 Management Release v12.0.PS1 -> chọn Run with PowerShell:
+# 1.	Chuột phải vào file M365 Management Release v12.0.PS1 -> chọn Run with PowerShell:
  
-2.	Trước khi sử dụng lệnh 2 -> 14 phải đăng nhập O365 với tài khoản admin bằng lệnh 1 trước.
+# 2.	Trước khi sử dụng lệnh 2 -> 14 phải đăng nhập O365 với tài khoản admin bằng lệnh 1 trước.
 
-3.	Để tạo nhiều tài khoản cùng 1 lúc ta làm như sau:
+# 3.	Để tạo nhiều tài khoản cùng 1 lúc ta làm như sau:
 
 -	Phải chạy lệnh 1 trước để đăng nhập vào O365 với tài khoản admin
 -	Để tạo tài nhiều tài khoản cần phải xem thông tin SKU licenses của O365 trước -> chạy lệnh 2:
@@ -20,20 +20,20 @@ Cài đặt 1 số công cụ này trước:
 
 •	Lưu tất cả lại, tắt Script đang chạy và chạy lại file script vừa lưu:
 
-•	Đăng nhập lại O365
+•	Mở script như 1 > Đăng nhập lại O365
 
 •	Chọn mục 3.2: nhập địa chỉ file Script-ImportUser-OPwd-tmpl-full-detail.csv đã sửa ở trên -> Enter
 
-4.	Để xóa nhiều tài khoản:
+# 4.	Để xóa nhiều tài khoản:
 -	Mở file script lên và đăng nhập
 -	Nhập lệnh 9
 -	Nhập địa chỉ file Script-DeleteUser-List.csv vào
 -	Nhấp enter:
 
-Ta thấy đã mất 4 users vừa tạo ở trên.
+Ta thấy sẽ mất các users vừa tạo ở trên.
 
-5.	Với ReAssign Licenses làm tương tự như 4
+# 5.	Với ReAssign Licenses làm tương tự như 4
 
-6.	Những chức năng khác chỉ cần tương tác trực tiếp không cần sử dụng đến file *.csv
+# 6.	Những chức năng khác chỉ cần tương tác trực tiếp không cần sử dụng đến file *.csv
 
-Chi tiết: ReadMe - M365 Management Release v2.pdf
+# Chi tiết: ReadMe - M365 Management Release v2.pdf
